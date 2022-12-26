@@ -1,4 +1,6 @@
 %% main
+% copy right JiChenya, Chalmers University of Technology.
+% jichenya@outlook.com
 
 clear
 clc
