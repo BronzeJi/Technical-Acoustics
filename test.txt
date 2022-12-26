@@ -1,0 +1,7 @@
+## learn how to add file from git
+# Visual Studio Code
+
+git clone 
+git add
+git commit -m
+git push origin main
