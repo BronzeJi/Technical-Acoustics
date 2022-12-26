@@ -1,7 +1,12 @@
 ## learn how to add file from git
 # Visual Studio Code
 
-git clone 
-git add
-git commit -m
-git push origin main
+git clone // remember to use ssh link
+
+
+git add . // add all file, also can replace . to filename
+git commit -m "" //message
+git push origin main //or other roles
+
+remember to save the file before push
+
