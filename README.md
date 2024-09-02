@@ -1,7 +1,7 @@
 # Technical-Acoustics
-This includes some of assignments from acoustic courses. 
+This includes some of the assignments from acoustic courses. 
 
-# System analsis
-To find H1 estimator(Frequency Responce Fuction) and its coherence with test data. SO called "mass-spring" data is simulated by Jens.
+# System analysis
+To find the H1 estimator(Frequency Response Function) and its coherence with test data. 
 
 
